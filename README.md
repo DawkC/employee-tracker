@@ -10,7 +10,5 @@ https://github.com/DawkC/employee-tracker
 
 ## Video
 
-https://drive.google.com/file/d/1kzXcctotYUeI_x0VePtlKwV0HLGfQw6S/preview
+https://user-images.githubusercontent.com/83977228/133317552-4823b4c5-d416-415a-bed2-0a0464194a96.mp4
 
-
-![Employee-Tracker (1)](https://user-images.githubusercontent.com/83977228/133316234-ea3b9a30-ca5c-4461-b046-776cea2c92b4.gif)
